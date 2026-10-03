@@ -106,22 +106,22 @@ Data uncovered during the document analysis phase was evaluated to uncover poten
 ### Figure 1: Target Web Interface — Mediroza Patient Portal
 Target patient portal interface displaying encrypted PDF lab report download endpoints (`S. Dlamini`, `P. Reddy`, `E. Thompson`).
 
-![Target Web Interface](images/figure1.png)
+![Target Web Interface](figure1.png)
 
 ### Figure 2: Password Hash Recovery — Test Key (123456)
 Successful PDF hash derivation and dictionary recovery of key `123456`.
 
-![Password Hash Recovery Test Key](images/figure2.png)
+![Password Hash Recovery Test Key](figure2.png)
 
 ### Figure 3: Password Hash Recovery — Weak Key (password)
 Successful extraction and match of weak default password `password`.
 
-![Password Hash Recovery Weak Key](images/figure3.png)
+![Password Hash Recovery Weak Key](figure3.png)
 
 ### Figure 4: Password Hash Recovery — Special Character Key (!@#\$%^&*)
 Wordlist traversal matching special character key string `!@#$%^&*`.
 
-![Password Hash Recovery Special Key](images/figure4.png)
+![Password Hash Recovery Special Key](figure4.png)
 
 ---
 
